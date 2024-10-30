@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="156.021" height="149.283" viewBox="0 0 156.021 149.283">
+  <g id="try-ilustration_1_" data-name="try-ilustration (1)" transform="translate(-1321.744 -75.785)">
+    <g id="Group_10" data-name="Group 10" transform="translate(1349.158 97.799)">
+      <path id="Path_47" data-name="Path 47" d="M1431.4,95.176h-61.384a4.5,4.5,0,0,0-4.43,3.714l-19.958,113.191a4.5,4.5,0,0,0,4.429,5.278h12.4l1.552-8.8h35l-1.551,8.8h13.982a4.5,4.5,0,0,0,4.429-3.717l19.959-113.189a4.5,4.5,0,0,0-4.428-5.277Z" transform="translate(-1345.555 -95.176)" fill="#675b93"/>
+      <path id="Path_48" data-name="Path 48" d="M1410.73,111.193h-35.005l1.552-8.8h35.005Z" transform="translate(-1340.33 -93.926)" fill="#fff"/>
+    </g>
+    <path id="Path_49" data-name="Path 49" d="M1454.586,146.717a15.84,15.84,0,1,1-15.84-15.844,15.84,15.84,0,0,1,15.84,15.844Z" transform="translate(16.998 8.804)" fill="none" stroke="#ffdba7" stroke-width="4.818"/>
+    <g id="Group_11" data-name="Group 11" transform="translate(1362.131 80.028)">
+      <line id="Line_2" data-name="Line 2" x2="8.292" y2="8.177" fill="none" stroke="#ede9fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="Line_3" data-name="Line 3" x1="8.292" y2="8.176" fill="none" stroke="#ede9fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(1455.744 183.912)">
+      <line id="Line_4" data-name="Line 4" y1="0.133" x2="19" transform="translate(0 9.433)" fill="none" stroke="#ede9fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="Line_5" data-name="Line 5" x1="0.133" y2="19" transform="translate(9.434)" fill="none" stroke="#ede9fb" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(1370.423 97.799)">
+      <path id="Path_50" data-name="Path 50" d="M1454.257,212.081,1434.3,98.891a4.5,4.5,0,0,0-4.429-3.715h-63.288a2.9,2.9,0,0,0-2.855,3.4l20.288,115.063a4.5,4.5,0,0,0,4.429,3.717h13.983l-1.552-8.8h35.006l1.551,8.8h12.4a4.5,4.5,0,0,0,4.424-5.275Z" transform="translate(-1363.681 -95.176)" fill="#f9a95a"/>
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="26.94" cy="31.932" rx="26.94" ry="31.932" transform="matrix(0.676, -0.736, 0.736, 0.676, 5.155, 59.511)" fill="#fff"/>
+      <path id="Path_51" data-name="Path 51" d="M1382.713,111.193h32.068a1.14,1.14,0,0,0,1.123-1.339l-1.042-5.908a1.879,1.879,0,0,0-1.851-1.553h-32.068a1.141,1.141,0,0,0-1.123,1.339l1.041,5.908a1.881,1.881,0,0,0,1.852,1.553Z" transform="translate(-1360.889 -93.926)" fill="#675b93"/>
+    </g>
+    <g id="Group_14" data-name="Group 14" transform="translate(1326.644 123.225)">
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="18.643" height="18.643" rx="2.739" transform="translate(0 13.182) rotate(-45)" fill="#ffdba7"/>
+    </g>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="142.307" height="5.086" rx="2.168" transform="translate(1332.438 219.982)" fill="#d7d5f7"/>
+    <g id="Group_16" data-name="Group 16" transform="translate(1324.744 158.89)">
+      <line id="Line_6" data-name="Line 6" x2="13.334" fill="none" stroke="#c0b6dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="Line_7" data-name="Line 7" x2="32.423" transform="translate(0 26.906)" fill="none" stroke="#c0b6dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="Line_8" data-name="Line 8" x2="40.742" transform="translate(0 13.454)" fill="none" stroke="#c0b6dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <line id="Line_9" data-name="Line 9" x2="13.334" transform="translate(26.93)" fill="none" stroke="#c0b6dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+    </g>
+    <path id="Icon_awesome-check-circle" data-name="Icon awesome-check-circle" d="M35.452,18.888c0,10.121-5.709,18.3-15.317,18.3S.563,29.009.563,18.888,5.546.708,15.154.708,35.452,8.767,35.452,18.888Zm-19.5,9.7,12.908-13.6a1.227,1.227,0,0,0,0-1.672l-1.587-1.672a1.083,1.083,0,0,0-1.587,0L15.154,22.739l-4.915-5.177a1.083,1.083,0,0,0-1.587,0L7.065,19.234a1.227,1.227,0,0,0,0,1.672l8.883,7.685c.438.462-.438.462,0,0Z" transform="translate(1398.746 139.114)" fill="#62b171"/>
+  </g>
+</svg>
